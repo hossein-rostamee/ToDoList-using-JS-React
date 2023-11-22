@@ -20,7 +20,11 @@ class TaskList extends Component {
     }
 
     renderUI = status => <Fragment key={ status }>
+<<<<<<< HEAD
         <h1>{status[0]}</h1>
+=======
+        <h1>{  status }</h1>
+>>>>>>> e7e9279 (revised commit)
         <Tasklist status={status} tasks={this.state.tasks} changeState={this.handleClick} remove={this.remove} />
     </Fragment>
 

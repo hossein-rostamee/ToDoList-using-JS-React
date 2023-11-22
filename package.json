@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "todolist",
   "version": "0.1.0",
   "private": true,
@@ -6,6 +7,15 @@
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.1"
+=======
+  "name": "gholam-last",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "react-scripts": "3.1.1"
+>>>>>>> e7e9279 (revised commit)
   },
   "scripts": {
     "start": "react-scripts start",
@@ -28,4 +38,8 @@
       "last 1 safari version"
     ]
   }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> e7e9279 (revised commit)
